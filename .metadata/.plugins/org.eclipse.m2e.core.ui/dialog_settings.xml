@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\2101659\Documents\MFPE-Auditmanagement\AuditManagement\MFPE-Audit-Management-master\Audit-Authorization"/>
+			<item value="C:\Users\2101659\Downloads\Daily-Insurance-Portal\Backend"/>
+			<item value="C:\Users\2101659\Documents\MFPE-Auditmanagement\AuditManagement\MFPE-Audit-Management-master\audit-checklist"/>
+			<item value="C:\Users\2101659\delta\springboot\jpa"/>
+			<item value="C:\Users\2101659\Desktop\dailyinsurance"/>
+			<item value="C:\Users\2101659\Desktop\satyamic"/>
+			<item value="C:\Users\2101659\Documents\Collateralloan java\Portalloan-master"/>
+			<item value="C:\Users\2101659\Documents\Collateralloan java\LoanManagement-main"/>
+			<item value="C:\Users\2101659\delta\projectworkplace\Auth-service\src\main\java\com\banking\AuthServiceApplication.java"/>
+			<item value="C:\Users\2101659\delta\springboot\springsecurity\springjwt"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
